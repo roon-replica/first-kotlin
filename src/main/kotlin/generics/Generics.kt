@@ -1,4 +1,4 @@
-// generic increase encapsulating common logic. (java에서  Collection 인터페이스들처럼)
+package generics// generic increase encapsulating common logic. (java에서  Collection 인터페이스들처럼)
 // 로직을 공통화하니까 재사용성도 증가.
 // List<T>는 T에 의해 결정된다
 
